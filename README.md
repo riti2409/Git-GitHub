@@ -16,4 +16,5 @@ Link : https://git-scm.com/downloads
 - ![Screenshot (909)](https://user-images.githubusercontent.com/65703138/148375356-56606339-a5a0-4a97-9ed4-59bb8dbf4f29.png)
 
 # Notes
-- [Git-Github.pdf](https://github.com/riti2409/Git-GitHub/files/7861803/Git-Github.pdf)
+-[Git-Github.pdf](https://github.com/riti2409/Git-GitHub/files/7861815/Git-Github.pdf)
+ 
