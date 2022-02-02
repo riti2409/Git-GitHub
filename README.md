@@ -1,6 +1,20 @@
 # Git-Github
 All about Git-Github
 
+- GitHub repo : https://github.com/riti2409/Git-GitHub
+
+- PDF(of notes): https://drive.google.com/file/d/1ItJD66ng1bQTZAvWnWEWs3SyaVMzSsz_/view?usp=sharing
+
+- Source : https://www.youtube.com/watch?v=gwWKnnCMQ5c&ab_channel=CodeWithHarry <br>
+
+ https://www.youtube.com/watch?v=uaeKhfhYE0U&ab_channel=AnujBhaiya <br>
+
+https://www.youtube.com/watch?v=apGV9Kg7ics&ab_channel=KunalKushwaha<br>
+
+
+
+
+
 # Git :
 - distributed version control system (save our changes, revert our change etc)
 
@@ -24,11 +38,3 @@ Link : https://git-scm.com/downloads
 - ![photo1642068213](https://user-images.githubusercontent.com/65703138/149309453-6580f6b1-f8e7-4912-9a32-b926191bc8b0.jpeg)
 - ![photo1642068212](https://user-images.githubusercontent.com/65703138/149309477-95d3fd7a-68a1-4153-b59a-963c9c190752.jpeg)
 
-# PDF :
-
-[Git_Github.pdf](https://github.com/riti2409/Git-GitHub/files/7985061/Git_Github.pdf)
-
-# Sources :
-https://www.youtube.com/watch?v=gwWKnnCMQ5c&ab_channel=CodeWithHarry
-https://www.youtube.com/watch?v=uaeKhfhYE0U&ab_channel=AnujBhaiya
-https://www.youtube.com/watch?v=apGV9Kg7ics&ab_channel=KunalKushwaha
